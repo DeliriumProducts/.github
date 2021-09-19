@@ -2,6 +2,8 @@
 
 We are a team of 2 developers, formed in 2018.
 
+![](dp-scrot.jpeg)
+
 ## What we do
 
 We primarily focus on fullstack web development with modern technologies.
