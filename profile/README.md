@@ -2,7 +2,7 @@
 
 We are a team of 2 developers, formed in 2018.
 
-![](dp-scrot.jpeg)
+![](https://raw.githubusercontent.com/DeliriumProducts/.github/main/profile/dp-scrot.jpeg)
 
 ## What we do
 
